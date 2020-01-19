@@ -1,6 +1,6 @@
-## wpbrute
+# wpbrute
 
-# Bruteforcing CMS users' passwords via the XMLRPC interface.
+## Bruteforcing Wordpress CMS users' passwords via the XMLRPC interface.
 This script is a PoC for the "Brute Force Amplification Attack" exploit against XMLRPC interfaces enabling the *system.multicall()* method (enabled by default). 
 
 The *system.multicall()* method allows multiple calls to be sent within a single HTTP request. Using this "wrapper", malicious attackers can carry out a large number of login attempts (bruteforce) with a minimal network impact, consequently making them stealthier and more efficient.
@@ -15,9 +15,10 @@ $ git clone https://github.com/cyborg4/wpbrute.git
 $ cd wpbrute
 $ python -m pip install -r requirements.txt
 ```
-## usage:
-         python3 site username passwordfile
-example: python3 site.com admin passlist.txt
+# usage:
+ python3 site username passwordfile
+##example: 
+ python3 site.com admin passlist.txt
 
 ## Dependencies
 ### Third-party libraries
