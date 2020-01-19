@@ -22,7 +22,10 @@ $ python -m pip install -r requirements.txt
 
 ## Dependencies
 ### Third-party libraries
-#### colorama 0.3.7:
+#### colorama :
 The *python3-colorama* package is required. 
 
 <https://pypi.python.org/pypi/colorama>
+
+## License
+   Copyright (C) 2020 Mr_Cyborg
