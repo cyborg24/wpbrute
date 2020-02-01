@@ -11,7 +11,7 @@ More information about the bruteforce amplification attack can be found at:
 
 ## Installation
 ```
-$ git clone https://github.com/cyborg4/wpbrute.git
+$ git clone https://github.com/cyborg24/wpbrute.git
 $ cd wpbrute
 $ python -m pip install -r requirements.txt
 ```
