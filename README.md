@@ -13,7 +13,7 @@ More information about the bruteforce amplification attack can be found at:
 ```
 $ git clone https://github.com/cyborg24/wpbrute.git
 $ cd wpbrute
-$ python -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 ```
 # usage:
  python3 site username passwordfile
