@@ -1,6 +1,6 @@
 import requests, json, time
 
-bearer = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6IlVTRVIiLCJpYXQiOjE2ODAxMDM0MjAsInN1YiI6IjIyNTg3MiIsImV4cCI6MTY4MDE4OTgyMH0.NKuEsMrM557qjn2PAaba-BsYD5xnjsD6yIE9DS8F5l8"
+bearer = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6IlVTRVIiLCJpYXQiOjE2ODAxODY0NzMsInN1YiI6IjIyMjM5NyIsImV4cCI6MTY4MDI3Mjg3M30.UtGoQEgyVhRApzS99lQBC0lXf2pkzsyzBlOeQUamNgk"
 
 userid = input("Enter starting point: ") #400683
 userid = int(userid.strip())
