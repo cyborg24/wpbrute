@@ -64,10 +64,13 @@ def mainProg(m,n,p):
 if __name__ == '__main__':
     num = input("Enter number: ")
     num = num.strip()
+    nums = input("Enter starting point: ")
+    nums = nums.strip()
+    nums = int(nums)
     filee = "pins.txt" #input("Enter file name: ")
     count1 = 10000
     
-    p1 = mp.Process(target=mainProg, args=(0, int(count1), 1))
+    p1 = mp.Process(target=mainProg, args=(nums, int(count1), 1))
     """
     p2 = mp.Process(target=mainProg, args=(int(count1), int(count1*2), 2))
     p3 = mp.Process(target=mainProg, args=(int(count1*2), int(count1*3), 3))
