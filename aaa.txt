@@ -1,4 +1,0 @@
-eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ5b29zZXVuamFuZzIxMDJAZ21haWwuY29tIiwidXNlcklkIjoiRE9UMDMzNzY4Mzg1IiwibWVyY2hhbnRJZCI6IjA0MTIzNDU2NzgiLCJlbWFpbCI6Inlvb3NldW5qYW5nMjEwMkBnbWFpbC5jb20iLCJmdWxseUF1dGhlbnRpY2F0ZWQiOnRydWUsInJvbGUiOlsiUk9MRV9BR0VOVCJdLCJhdXRob3JpdGllcyI6WyJST0xFX0FHRU5UIl0sImlhdCI6MTY4NzUyNTk1MCwiZXhwIjoxNjg3NTQzOTUwfQ.lzB-GFP0lvZZpM8Kdf0hzk0nJdUQhIzF5NLfFREjmExlS1ND29-ekscJc6-rhTsaVk_-6COaQCDLRPiPA0Wmjg
-
-
-{"agentAccountId":"DOT033768385","amount":100.0,"bankAccountName":"James Ezeanokette","bankAccountNumber":"1002266343","bankCode":"090470","bankName":"CHANGHAN RTS MICROFINANCE BANK","narration":"Internal Transfer","NESessionID":"","paymentDate":"091358","transactionPin":"9413","transactionReference":"DOT033768385120230623091358","geoLocation":""}
