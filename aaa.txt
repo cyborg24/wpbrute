@@ -1,4 +1,0 @@
-
-eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZGVnb2tlYW5paWZvd29zZTM1QGdtYWlsLmNvbSIsInVzZXJJZCI6IkRPVDAzMzcxMzM5OSIsIm1lcmNoYW50SWQiOiIwNDEyMzQ1Njc4IiwiZW1haWwiOiJhZGVnb2tlYW5paWZvd29zZTM1QGdtYWlsLmNvbSIsImZ1bGx5QXV0aGVudGljYXRlZCI6dHJ1ZSwicm9sZSI6WyJST0xFX0FHRU5UIl0sImF1dGhvcml0aWVzIjpbIlJPTEVfQUdFTlQiXSwiaWF0IjoxNjg3NjQxNDA1LCJleHAiOjE2ODc2NTk0MDV9.1ORT5m20_I7-7ZSFK_GO344eRpMHUKZu9pmuiB8LUmWjlQvJHGLlSjLfVr0O7mwIiO_1DkT5gZ3_8Cl4upHWtw
-
-{"agentAccountId":"DOT033778688","amount":100.0,"bankAccountName":"Oinu Patricia Chinbak","bankAccountNumber":"1000390262","bankCode":"090470","bankName":"CHANGHAN RTS MICROFINANCE BANK","narration":"Internal Transfer","NESessionID":"","paymentDate":"101715","transactionPin":"9331","transactionReference":"DOT033730692120230623101716","geoLocation":""}
