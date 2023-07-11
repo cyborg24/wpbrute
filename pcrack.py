@@ -71,8 +71,8 @@ if __name__ == '__main__':
     
     p1 = mp.Process(target=mainProg, args=(0, int(count1), 1))
     
-    #p2 = mp.Process(target=mainProg, args=(int(count1), int(count1*2), 2))
-    """
+    p2 = mp.Process(target=mainProg, args=(int(count1), int(count1*2), 2))
+    
     p3 = mp.Process(target=mainProg, args=(int(count1*2), int(count1*3), 3))
     p4 = mp.Process(target=mainProg, args=(int(count1*3), int(count1*4), 4))
     p5 = mp.Process(target=mainProg, args=(int(count1*4), int(count1*5), 5))
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     p8 = mp.Process(target=mainProg, args=(int(count1*7), int(count1*8), 8))
     p9 = mp.Process(target=mainProg, args=(int(count1*8), int(count1*9), 9))
     p10 = mp.Process(target=mainProg, args=(int(count1*9), int(count1*10), 10))
-    
+    """
     p11 = mp.Process(target=mainProg, args=(int(count1*10), int(count1*11), 11))
     p12 = mp.Process(target=mainProg, args=(int(count1*11), int(count1*12), 12))
     p13 = mp.Process(target=mainProg, args=(int(count1*12), int(count1*13), 13))
@@ -105,8 +105,8 @@ if __name__ == '__main__':
     """
     p1.start()
     
-    #p2.start()
-    """
+    p2.start()
+    
     p3.start()
     p4.start()
     p5.start()
@@ -115,7 +115,7 @@ if __name__ == '__main__':
     p8.start()
     p9.start()
     p10.start()
-    
+    """
     p11.start()
     p12.start()
     p13.start()
