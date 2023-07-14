@@ -2,4 +2,4 @@ eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjb3ZlcmdlY2tvQGdtYWlsLmNvbSIsInVzZXJJZCI6IkRPVDA
 
 
 
-{"agentAccountId":"DOT032417257","amount":100.0,"bankAccountName":"Waheed Quadri","bankAccountNumber":"1004243737","bankCode":"090470","bankName":"CHANGHAN RTS MICROFINANCE BANK","narration":"Internal Transfer","NESessionID":"","paymentDate":"123136","transactionPin":"2020","transactionReference":"DOT032417257120230713123136","geoLocation":""}
+
