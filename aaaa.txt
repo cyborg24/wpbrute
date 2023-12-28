@@ -2,7 +2,3 @@ eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJvbGF3b3lpbmZ1bmtlMjAyMEBnbWFpbC5jb20iLCJ1c2VySWQ
 
 
 
-{"agentAccountId":"DOT033018172","amount":500.0,"bankAccountName":"Bill Point-Soy","bankAccountNumber":"6471222854","bankCode":"090405","bankName":"MONIEPOINT MFB","narration":"","paymentDate":"112850","transactionPin":"2000","transactionReference":"DOT033018172120231227232850","geoLocation":""}
-
-
-eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzYWRpcWlyZXRpeXVzdWZAZ21haWwuY29tIiwidXNlcklkIjoiRE9UMDMzMDE4MTcyIiwibWVyY2hhbnRJZCI6IjA0MTIzNDU2NzgiLCJlbWFpbCI6InNhZGlxaXJldGl5dXN1ZkBnbWFpbC5jb20iLCJmdWxseUF1dGhlbnRpY2F0ZWQiOnRydWUsInJvbGUiOlsiUk9MRV9BR0VOVCJdLCJhdXRob3JpdGllcyI6WyJST0xFX0FHRU5UIl0sImlhdCI6MTcwMzcxNzU5NCwiZXhwIjoxNzAzNzM1NTk0fQ.w0XXiT0vnw0LL47fGC6pcqJUWwFOggZ7aDPSy3XwPD-63f6chXrFW8X1aL7gseM9uQneLEHsYt0MKmSn6NyQuA
